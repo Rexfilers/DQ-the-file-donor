@@ -38,8 +38,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=https://t.me/MOVIES_PROVIDE2),
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=https://t.me/MOVIES_PROVIDE)
+                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url='https://t.me/MOVIES_PROVIDE2'),
+                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url='https://t.me/MOVIES_PROVIDE')
                  ],[
                     InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Rexisop99")
                   ]]
@@ -61,8 +61,8 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=https://t.me/MOVIES_PROVIDE2),
-                                                                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=https://t.me/MOVIES_PROVIDE)
+                                                                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url='https://t.me/MOVIES_PROVIDE2'),
+                                                                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url='https://t.me/MOVIES_PROVIDE')
                                                                         ],[
                                                                            InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Rexisop99")
                                                                          ]]
