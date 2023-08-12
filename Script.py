@@ -191,14 +191,9 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b>@MOVIES_PROVIDE <code>{file_name}</code>
 
-<b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
+<b>=========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @MOVIES_PROVIDE
 ▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @MOVIES_PROVIDE2
 =========== • ✠ • ===========</b>"""
